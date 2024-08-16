@@ -1,5 +1,7 @@
+# Base Page with Create/Edit Post and Seach Components
 ![Base Page](client/src/images/base_page.png)
 
+# Post Page with Comments
 ![Post Page](client/src/images/post_page.png)
 
 # MyBucketList Application Explanation  
