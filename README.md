@@ -1,3 +1,7 @@
+![Base Page](client/src/images/base_page.png)
+
+![Post Page](client/src/images/post_page.png)
+
 # MyBucketList Application Explanation  
 Social Media Mock Application to allow users to post their bucket lists
 
