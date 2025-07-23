@@ -10,12 +10,6 @@ Social Media Mock Application to allow users to post their bucket lists
 # Technology Stack
 MERN (MongoDB, Express.js, React, Node.js), Google Identity Services, Axios, JWT, Bcrypt, Morgan, Helmet, bodyParser, MUI Styling
 
-# Time Spent
-October 16, 2023 - December 6, 2023
-
-# Notice
-Accidentally built the application on Node.js version 16, thus to launch the app you will need to use the legacy-provider commands
-
 # App Launch on Windows Powershell
 cd server  
 nodemon index.js  
