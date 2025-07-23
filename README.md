@@ -11,7 +11,7 @@ Social Media Mock Application to allow users to post their bucket lists
 MERN (MongoDB, Express.js, React, Node.js), Google Identity Services, Axios, JWT, Bcrypt, Morgan, Helmet, bodyParser, MUI Styling
 
 # Time Spent
-June 12, 2024 - August 16, 2024
+May 13, 2024 - June 3, 2024
 
 # Notice
 Accidentally built the application on Node.js version 16, thus to launch the app you will need to use the legacy-provider commands
